@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/testdeployagain/static/css/main.f538d2ea.css",
-    "main.js": "/testdeployagain/static/js/main.8e6f4983.js",
-    "static/js/787.13d8fc0d.chunk.js": "/testdeployagain/static/js/787.13d8fc0d.chunk.js",
-    "static/media/ocean.jpg": "/testdeployagain/static/media/ocean.c5ea5549ae8e73e1d9ef.jpg",
-    "static/media/JeffSnowPic.jpg": "/testdeployagain/static/media/JeffSnowPic.1fddb187d46b30b04711.jpg",
-    "static/media/weatherdashboard.PNG": "/testdeployagain/static/media/weatherdashboard.bf44506b358ff809f61c.PNG",
-    "static/media/pieceofcake.PNG": "/testdeployagain/static/media/pieceofcake.cab1d105fc0d2ddb6e06.PNG",
-    "static/media/resume.pdf": "/testdeployagain/static/media/resume.882e0937a7254bbfe9cc.pdf",
-    "static/media/moviesandcocktails.PNG": "/testdeployagain/static/media/moviesandcocktails.7abc3f99978be622e7a0.PNG",
-    "static/media/MVCTechBlog.PNG": "/testdeployagain/static/media/MVCTechBlog.57ada0e48980fa4637b9.PNG",
-    "static/media/workdayscheduler.PNG": "/testdeployagain/static/media/workdayscheduler.8e2ae5f810d67378029e.PNG",
-    "static/media/codequizgame.PNG": "/testdeployagain/static/media/codequizgame.9484eaeb960f478de238.PNG",
-    "index.html": "/testdeployagain/index.html",
-    "main.f538d2ea.css.map": "/testdeployagain/static/css/main.f538d2ea.css.map",
-    "main.8e6f4983.js.map": "/testdeployagain/static/js/main.8e6f4983.js.map",
-    "787.13d8fc0d.chunk.js.map": "/testdeployagain/static/js/787.13d8fc0d.chunk.js.map"
+    "main.css": "/static/css/main.b59fc492.css",
+    "main.js": "/static/js/main.d3ffd9a3.js",
+    "static/js/787.567bcbce.chunk.js": "/static/js/787.567bcbce.chunk.js",
+    "static/media/ocean.jpg": "/static/media/ocean.c5ea5549ae8e73e1d9ef.jpg",
+    "static/media/JeffSnowPic.jpg": "/static/media/JeffSnowPic.1fddb187d46b30b04711.jpg",
+    "static/media/weatherdashboard.PNG": "/static/media/weatherdashboard.bf44506b358ff809f61c.PNG",
+    "static/media/pieceofcake.PNG": "/static/media/pieceofcake.cab1d105fc0d2ddb6e06.PNG",
+    "static/media/resume.pdf": "/static/media/resume.882e0937a7254bbfe9cc.pdf",
+    "static/media/moviesandcocktails.PNG": "/static/media/moviesandcocktails.7abc3f99978be622e7a0.PNG",
+    "static/media/MVCTechBlog.PNG": "/static/media/MVCTechBlog.57ada0e48980fa4637b9.PNG",
+    "static/media/workdayscheduler.PNG": "/static/media/workdayscheduler.8e2ae5f810d67378029e.PNG",
+    "static/media/codequizgame.PNG": "/static/media/codequizgame.9484eaeb960f478de238.PNG",
+    "index.html": "/index.html",
+    "main.b59fc492.css.map": "/static/css/main.b59fc492.css.map",
+    "main.d3ffd9a3.js.map": "/static/js/main.d3ffd9a3.js.map",
+    "787.567bcbce.chunk.js.map": "/static/js/787.567bcbce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f538d2ea.css",
-    "static/js/main.8e6f4983.js"
+    "static/css/main.b59fc492.css",
+    "static/js/main.d3ffd9a3.js"
   ]
 }
