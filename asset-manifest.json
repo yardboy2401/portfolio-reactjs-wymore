@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testdeployagain/static/css/main.79325f58.css",
-    "main.js": "/testdeployagain/static/js/main.f39c125f.js",
+    "main.css": "/testdeployagain/static/css/main.f538d2ea.css",
+    "main.js": "/testdeployagain/static/js/main.8d48e8bd.js",
     "static/js/787.567bcbce.chunk.js": "/testdeployagain/static/js/787.567bcbce.chunk.js",
     "static/media/ocean.jpg": "/testdeployagain/static/media/ocean.c5ea5549ae8e73e1d9ef.jpg",
     "static/media/JeffSnowPic.jpg": "/testdeployagain/static/media/JeffSnowPic.1fddb187d46b30b04711.jpg",
@@ -13,12 +13,12 @@
     "static/media/workdayscheduler.PNG": "/testdeployagain/static/media/workdayscheduler.8e2ae5f810d67378029e.PNG",
     "static/media/codequizgame.PNG": "/testdeployagain/static/media/codequizgame.9484eaeb960f478de238.PNG",
     "index.html": "/testdeployagain/index.html",
-    "main.79325f58.css.map": "/testdeployagain/static/css/main.79325f58.css.map",
-    "main.f39c125f.js.map": "/testdeployagain/static/js/main.f39c125f.js.map",
+    "main.f538d2ea.css.map": "/testdeployagain/static/css/main.f538d2ea.css.map",
+    "main.8d48e8bd.js.map": "/testdeployagain/static/js/main.8d48e8bd.js.map",
     "787.567bcbce.chunk.js.map": "/testdeployagain/static/js/787.567bcbce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79325f58.css",
-    "static/js/main.f39c125f.js"
+    "static/css/main.f538d2ea.css",
+    "static/js/main.8d48e8bd.js"
   ]
 }
