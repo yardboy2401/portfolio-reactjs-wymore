@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-reactjs-wymore/static/css/main.a97d2f46.css",
-    "main.js": "/portfolio-reactjs-wymore/static/js/main.b9cf2b3a.js",
+    "main.js": "/portfolio-reactjs-wymore/static/js/main.85114fe3.js",
     "static/js/787.567bcbce.chunk.js": "/portfolio-reactjs-wymore/static/js/787.567bcbce.chunk.js",
     "static/media/ocean.jpg": "/portfolio-reactjs-wymore/static/media/ocean.c5ea5549ae8e73e1d9ef.jpg",
     "static/media/JeffSnowPic.jpg": "/portfolio-reactjs-wymore/static/media/JeffSnowPic.1fddb187d46b30b04711.jpg",
@@ -14,11 +14,11 @@
     "static/media/codequizgame.PNG": "/portfolio-reactjs-wymore/static/media/codequizgame.9484eaeb960f478de238.PNG",
     "index.html": "/portfolio-reactjs-wymore/index.html",
     "main.a97d2f46.css.map": "/portfolio-reactjs-wymore/static/css/main.a97d2f46.css.map",
-    "main.b9cf2b3a.js.map": "/portfolio-reactjs-wymore/static/js/main.b9cf2b3a.js.map",
+    "main.85114fe3.js.map": "/portfolio-reactjs-wymore/static/js/main.85114fe3.js.map",
     "787.567bcbce.chunk.js.map": "/portfolio-reactjs-wymore/static/js/787.567bcbce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a97d2f46.css",
-    "static/js/main.b9cf2b3a.js"
+    "static/js/main.85114fe3.js"
   ]
 }
