@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-reactjs-wymore/static/css/main.cbb092ac.css",
+    "main.css": "/portfolio-reactjs-wymore/static/css/main.f547c01f.css",
     "main.js": "/portfolio-reactjs-wymore/static/js/main.1b0c804c.js",
     "static/js/787.567bcbce.chunk.js": "/portfolio-reactjs-wymore/static/js/787.567bcbce.chunk.js",
     "static/media/ocean.jpg": "/portfolio-reactjs-wymore/static/media/ocean.c5ea5549ae8e73e1d9ef.jpg",
@@ -13,12 +13,12 @@
     "static/media/MVCTechBlog.PNG": "/portfolio-reactjs-wymore/static/media/MVCTechBlog.57ada0e48980fa4637b9.PNG",
     "static/media/codequizgame.PNG": "/portfolio-reactjs-wymore/static/media/codequizgame.9484eaeb960f478de238.PNG",
     "index.html": "/portfolio-reactjs-wymore/index.html",
-    "main.cbb092ac.css.map": "/portfolio-reactjs-wymore/static/css/main.cbb092ac.css.map",
+    "main.f547c01f.css.map": "/portfolio-reactjs-wymore/static/css/main.f547c01f.css.map",
     "main.1b0c804c.js.map": "/portfolio-reactjs-wymore/static/js/main.1b0c804c.js.map",
     "787.567bcbce.chunk.js.map": "/portfolio-reactjs-wymore/static/js/787.567bcbce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbb092ac.css",
+    "static/css/main.f547c01f.css",
     "static/js/main.1b0c804c.js"
   ]
 }
