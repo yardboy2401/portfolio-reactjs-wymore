@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-reactjs-wymore/static/css/main.a97d2f46.css",
-    "main.js": "/portfolio-reactjs-wymore/static/js/main.a1ac13f4.js",
+    "main.css": "/portfolio-reactjs-wymore/static/css/main.fd6d92e0.css",
+    "main.js": "/portfolio-reactjs-wymore/static/js/main.1b0c804c.js",
     "static/js/787.567bcbce.chunk.js": "/portfolio-reactjs-wymore/static/js/787.567bcbce.chunk.js",
     "static/media/ocean.jpg": "/portfolio-reactjs-wymore/static/media/ocean.c5ea5549ae8e73e1d9ef.jpg",
     "static/media/JeffSnowPic.jpg": "/portfolio-reactjs-wymore/static/media/JeffSnowPic.1fddb187d46b30b04711.jpg",
@@ -13,12 +13,12 @@
     "static/media/MVCTechBlog.PNG": "/portfolio-reactjs-wymore/static/media/MVCTechBlog.57ada0e48980fa4637b9.PNG",
     "static/media/codequizgame.PNG": "/portfolio-reactjs-wymore/static/media/codequizgame.9484eaeb960f478de238.PNG",
     "index.html": "/portfolio-reactjs-wymore/index.html",
-    "main.a97d2f46.css.map": "/portfolio-reactjs-wymore/static/css/main.a97d2f46.css.map",
-    "main.a1ac13f4.js.map": "/portfolio-reactjs-wymore/static/js/main.a1ac13f4.js.map",
+    "main.fd6d92e0.css.map": "/portfolio-reactjs-wymore/static/css/main.fd6d92e0.css.map",
+    "main.1b0c804c.js.map": "/portfolio-reactjs-wymore/static/js/main.1b0c804c.js.map",
     "787.567bcbce.chunk.js.map": "/portfolio-reactjs-wymore/static/js/787.567bcbce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a97d2f46.css",
-    "static/js/main.a1ac13f4.js"
+    "static/css/main.fd6d92e0.css",
+    "static/js/main.1b0c804c.js"
   ]
 }
